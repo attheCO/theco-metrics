@@ -1,7 +1,7 @@
 #theCO Metrics Dashboard
 
 ##how to update metrics dashboard
-[Watch this screencast](http://bit.ly/2dOjEiI)
+[Watch this screencast](http://www.sodiumhalogen.com/up_c/update-theco-metrics-dashbaord-2016_s-D16s3qIoys.mp4)
 
 ##initial setup in terminal
 1. move into this repo `cd [into-this-repo]`
